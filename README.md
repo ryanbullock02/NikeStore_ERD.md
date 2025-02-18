@@ -9,7 +9,7 @@ flowchart LR
   b --"Create"--> d[High Demand]
   d --"Drives"--> f[High Sales]
   e --"Determines"--> g[Low Inventory]
-  g --"Determines"--> h[High Inventory]
+  f --"Determines"--> h[High Inventory]
 
 
   ```
