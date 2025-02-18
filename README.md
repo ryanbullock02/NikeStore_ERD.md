@@ -3,7 +3,7 @@
 
 ```mermaid
 flowchart TB
-  A[Start] --> B[Decision]
-  B -->|Yes| C[Continue]
-  B -->|No| D[Stop]
+  A[Customer] -Provides a Demand-> B[Product]
+  B -Demand creates-> D[Inventory]
+  C[Sales] -Goes Up-> D
   ```
