@@ -6,7 +6,7 @@ flowchart TB
   A[Customer] --> B[Demand]
   B --> C[Product]
   C --> D[Inventory]
-  B --> D :If product exists
+  B -"if"-> D
   D --> E[Sales]
 
   ```
