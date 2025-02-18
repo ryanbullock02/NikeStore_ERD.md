@@ -13,6 +13,10 @@ flowchart LR
 
 
   ```
+
+This chart is assuming that price is not a driving factor of demand and is also assuming inventory can keep up with demand.
+
+
 ## Descriptions
 
 ### Product
