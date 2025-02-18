@@ -3,7 +3,7 @@
 
 ```mermaid
 flowchart TB
-  A[Customer] --> B[Product] :Creates Demand
-  B --> D[Inventory]
-  C[Sales] --> D
+  A[Customer] --> B[Product]
+  B --> C[Inventory]
+  D[Sales] --> C
   ```
