@@ -13,5 +13,16 @@ flowchart LR
 
 
   ```
+## Descriptions
 
-  
+### Product
+A product is an item or SKU that is available to be purchased by a customer
+
+### Customer
+A customer is someone with interest and ability to buy the product
+
+### Sale
+A sale is a record of a purchase of a product by a customer
+
+### Inventory
+Inventory is the amount of available product that a customer can purchase
