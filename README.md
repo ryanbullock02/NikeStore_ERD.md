@@ -12,8 +12,8 @@ flowchart LR
   f --"Determines"--> h[High Inventory]
 
   A[Creates] --> f
-  B[Plus] --> A
-  d --> B
-  h --> B
+  
+  d --> A
+  h --> A
   ```
 
